@@ -1,0 +1,34 @@
+name: Update M3U Every 20 Mins
+
+on:
+  schedule:
+    - cron: '*/20 * * * *' # Run every 20 minutes
+  workflow_dispatch:      # Allows manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Requests
+        run: pip install requests
+
+      - name: Run Script
+        run: python merge_script.py
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add playlist.m3u
+          git commit -m "Auto-update playlist" || exit 0
+          git push
