@@ -6,7 +6,7 @@ M3U_URLS = [
     "https://geefive.saqlainhaider8198.workers.dev/",
     "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jtv.m3u"
 ]
-JSON_URL = "https://raw.githubusercontent.com/mdsarfraj1ali/play/refs/heads/main/Slivtv.json"
+JSON_URL = "https://raw.githubusercontent.com/ripalbaria/play/refs/heads/main/Slivtv.json"
 OUTPUT_FILE = "playlist.m3u"
 
 def main():
