@@ -3,7 +3,7 @@ import json
 
 # Your URLs
 M3U_URLS = [
-    "https://geefive.saqlainhaider8198.workers.dev/",
+    "https://raw.githubusercontent.com/cloudplay97/m3u/main/zee5-worldwide.m3u",
     "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jtv.m3u"
 ]
 JSON_URL = "https://raw.githubusercontent.com/ripalbaria/play/refs/heads/main/Slivtv.json"
