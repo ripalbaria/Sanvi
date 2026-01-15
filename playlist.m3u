@@ -6026,49 +6026,49 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_22_BTS/output/index.mpd?__h
 #EXTHTTP:{"cookie":"__hdnea__=st=1768480391~exp=1768566791~acl=/*~hmac=b9bf6cb847a697eb317d4a1eead11f3620bc296456dfdb83d346ba063bad44be"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_18_BTS/output/index.mpd?__hdnea__=st=1768480391~exp=1768566791~acl=/*~hmac=b9bf6cb847a697eb317d4a1eead11f3620bc296456dfdb83d346ba063bad44be&xxx=%7Ccookie=__hdnea__=st=1768480391~exp=1768566791~acl=/*~hmac=b9bf6cb847a697eb317d4a1eead11f3620bc296456dfdb83d346ba063bad44be
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sethd_23oct_landscape_thumb_rev.jpg",Sony SET HD
-https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_sabhd_23oct_landscape_thumb.jpg",Sony SAB HD
-https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_pal_23oct_landscape_thumb.jpg",Sony Pal
-https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_yay_23oct_landscape_thumb.jpg",Sony Yay
-https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_marathi_23oct_landscape_thumb.jpg",Sony Marathi
-https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_aath_23oct_landscape_thumb.jpg",Sony Aath
-https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_maxhd_23oct_landscape_thumb.jpg",Sony MAX HD
-https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_max_23oct_landscape_thumb.jpg",Sony MAX
-https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_max2_23oct_landscape_thumb.jpg",Sony MAX 2
-https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_wah_23oct_landscape_thumb.jpg",Sony WAH
-https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_pixhd_23oct_landscape_thumb.jpg",Sony PIX HD
-https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_bbchd_23oct_landscape_thumb.jpg",Sony BBC Earth HD
-https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Sony_TEN1_23oct_landscape_thumb.jpg",Sony Sports Ten 1
-https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Sony_TEN2_23oct_landscape_thumb.jpg",Sony Sports Ten 2
-https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Sony_TEN3_23oct_landscape_thumb.jpg",Sony Sports Ten 3
-https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Sony_TEN4_23oct_landscape_thumb.jpg",Sony Sports Ten 4
-https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Sony_TEN5_23oct_landscape_thumb.jpg",Sony Sports Ten 5
-https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Sony_TEN1HD_23oct_landscape_thumb.jpg",Sony Sports Ten 1 HD
-https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Sony_TEN2HD_23oct_landscape_thumb.jpg",Sony Sports Ten 2 HD
-https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Sony_TEN3HD_23oct_landscape_thumb.jpg",Sony Sports Ten 3 HD
-https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Sony_TEN4HD_23oct_landscape_thumb.jpg",Sony Sports Ten 4 HD
-https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Sony_TEN5HD_23oct_landscape_thumb.jpg",Sony Sports Ten 5 HD
-https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1768538503~acl=/*~id=99159990447571597923465009996267~hmac=df215d84084998ec12da6a4a8f02806b846b51c526439b73384712a8666891f7
+https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1768552373~acl=/*~id=82526667879074608989280871996474~hmac=3efaac6a413546891adcfbe384e675e516b18ad69ba7bcd8a8b0fd1566fc7bc4
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWwH/Shareext-champion-league.jpg",Willow Sports (SD)
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SHAREEXT SPORT",Willow Sports (SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
