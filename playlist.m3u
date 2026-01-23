@@ -1,6 +1,6 @@
 #EXTM3U
-# Pushed and updated by CloudPlay
-# Join Telegram @ https://t.me/cloudply
+# Pushed & updated by CloudPlay
+# Telegram: https://t.me/cloudply
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-name="Zee TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_374,h_374,c_fill,f_webp,q_auto:eco/resources/0-9-zeetvhd/square/374x3747e1771cff4404204861bca791ede04c8" group-title="Entertainment",(IN) Zee TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdntl=exp=1769240284~acl=%2f*~id=14a0c100-6bf0-4b76-81a6-9c5a6c0b3dfc~data=hdntl~hmac=51ed6075d0308c567d2b8422d01ce5a278faf493da4927f7d926c3112f6103bd
